@@ -32,7 +32,7 @@ To find the cookie above:
 4. Scroll down to 'Request Headers' and copy the cookie.
 
 Below is an image of what you should see:
-![Screenshot](cookie.png)
+![Screenshot](cookie.PNG)
 
 
 Disclaimer:
