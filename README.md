@@ -32,7 +32,7 @@ To find the cookie above:
 4. Scroll down to 'Request Headers' and copy the cookie.
 
 Below is an image of what you should see:
-![alt text](https://github.com/volkner39/gofile/blob/master/cookie.png?raw=true)
+![Screenshot](cookie.png)
 
 
 Disclaimer:
